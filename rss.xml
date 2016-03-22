@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[projetoativa]]></title>
         <description><![CDATA[projetoativa]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/projetoativa/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 22 Mar 2016 16:49:41 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 22 Mar 2016 16:54:52 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/projetoativa/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/fa1413f1-8c5a-430a-a739-5404f5a5f0ee.jpg">]]></description>
-            <link>undefinedacreditamos-na-potencia-das-artes-visuais/index.html</link>
+            <link>https://thegrid.ai/projetoativa/acreditamos-na-potencia-das-artes-visuais/index.html</link>
             <guid isPermaLink="false">b8ee491c-3df7-4758-ad10-2302df6d8df3</guid>
-            <pubDate>Tue, 22 Mar 2016 16:49:41 GMT</pubDate>
+            <pubDate>Tue, 22 Mar 2016 16:54:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
